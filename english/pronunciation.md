@@ -307,3 +307,6 @@ diff
 
 # 美式英语(GA)与英式英语(RP)
 
+ga: general american
+
+rp: received pronunciation
